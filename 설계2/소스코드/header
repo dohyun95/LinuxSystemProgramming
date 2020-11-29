@@ -1,0 +1,6 @@
+printf #include <stdio.h> #include <stdlib.h>
+scanf #include <stdio.h>
+fopen #include <stdio.h> 
+access #include <stdio.h>
+fflush #include <stdio.h>
+access #include <unistd.h>
